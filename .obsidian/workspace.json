@@ -4,47 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5ae8e87ca3a288",
+        "id": "39eab3b3c5575730",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7cd5c428ee0b92",
+            "id": "d325efad8c2e2e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/EC2/EC2 Lifecycle.md",
+                "file": "IAM/1.Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf5184cf0b8aa01a",
+            "id": "0451d168571354a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/EC2/Auto Scaling.md",
+                "file": "IAM/MFA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "845c9b41c01faf3a",
+            "id": "acaac86f6498b184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/EC2/EBS, Snapshot, AMI.md",
+                "file": "IAM/IAM CLI.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aee46223fd0dd53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM/4.Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea880a05f39bb32c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20221230200420.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/EC2/EBS, Snapshot, AMI.md",
+                "file": "img/Pasted image 20221230200420.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/EC2/EBS, Snapshot, AMI.md",
+                "file": "img/Pasted image 20221230200420.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/EC2/EBS, Snapshot, AMI.md"
+                "file": "img/Pasted image 20221230200420.png"
               }
             }
           }
@@ -171,10 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "845c9b41c01faf3a",
+  "active": "e99b6c393b85b83b",
   "lastOpenFiles": [
-    "AWS/EC2/Auto Scaling.md",
-    "AWS/EC2/EC2 Lifecycle.md",
-    "Pasted image 20221222221613.png.md"
+    "img/Pasted image 20221230201828.png",
+    "img/Pasted image 20221230201853.png",
+    "IAM/4.Roles.md",
+    "IAM/5.Security Tools.md",
+    "IAM/IAM CLI.md",
+    "IAM/MFA.md",
+    "IAM/1.Intro.md",
+    "IAM/3.Policies.md",
+    "img/Pasted image 20221230185513.png",
+    "IAM/2.Permissions.md"
   ]
 }

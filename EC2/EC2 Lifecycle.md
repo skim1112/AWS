@@ -1,5 +1,3 @@
-
-![Pasted image 20221222221613.png](app://local/Users/skim/Documents/Obsidian%20Vault/Pasted%20image%2020221222221613.png?1671765373363)
 중지
 
 - 중지 중에는 instance fee 요금 미청구
