@@ -8,65 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d325efad8c2e2e5f",
+            "id": "89fc5c9743bf12cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/1.Intro.md",
+                "file": "EC2/EC2 Lifecycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0451d168571354a4",
+            "id": "9c8aa7457f389757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/MFA.md",
+                "file": "EC2/2.EC2 Instance Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "acaac86f6498b184",
+            "id": "6f14f507006e08f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/IAM CLI.md",
+                "file": "EC2/3. Security Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aee46223fd0dd53c",
+            "id": "c4af94e4cbb895f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/4.Roles.md",
+                "file": "EC2/4. EC2 Pricing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea880a05f39bb32c",
+            "id": "c444329eff81c85d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20221230200420.png"
+                "file": "EC2/Auto Scaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13aa41cb8c22169e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb4cdc30dc7c6c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/Placement Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea08a958d136e51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/ENI(Elastic Network Interfaces).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f42b7b5a8f037a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/EC2 Hibernate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -132,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20221230200420.png",
+                "file": "EC2/EC2 Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20221230200420.png",
+                "file": "EC2/EC2 Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20221230200420.png"
+                "file": "EC2/EC2 Hibernate.md"
               }
             }
           }
@@ -193,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e99b6c393b85b83b",
+  "active": "6f42b7b5a8f037a6",
   "lastOpenFiles": [
-    "img/Pasted image 20221230201828.png",
-    "img/Pasted image 20221230201853.png",
-    "IAM/4.Roles.md",
-    "IAM/5.Security Tools.md",
-    "IAM/IAM CLI.md",
-    "IAM/MFA.md",
-    "IAM/1.Intro.md",
-    "IAM/3.Policies.md",
-    "img/Pasted image 20221230185513.png",
-    "IAM/2.Permissions.md"
+    "EC2/EC2 Lifecycle.md",
+    "EC2/EC2 Hibernate.md",
+    "EC2/ENI(Elastic Network Interfaces).md",
+    "EC2/3. Security Groups.md",
+    "EC2/Placement Groups.md",
+    "Untitled 2.md",
+    "EC2/Auto Scaling.md",
+    "EC2/Private vs Public IP(IPv4).md",
+    "EC2/4. EC2 Pricing.md",
+    "Untitled 1.md"
   ]
 }
